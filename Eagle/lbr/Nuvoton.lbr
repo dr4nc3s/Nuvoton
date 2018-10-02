@@ -249,7 +249,7 @@
 <symbol name="M0159S_IO">
 <pin name="P1.0/PWM1_CH0" x="-33.02" y="30.48" visible="pin" length="short"/>
 <pin name="P1.1/PWM1_CH1" x="-33.02" y="27.94" visible="pin" length="short"/>
-<pin name="P1.2/PWM_CH2" x="-33.02" y="25.4" visible="pin" length="short"/>
+<pin name="P1.2/PWM1_CH2" x="-33.02" y="25.4" visible="pin" length="short"/>
 <pin name="P1.3/PWM1_CH3" x="-33.02" y="22.86" visible="pin" length="short"/>
 <pin name="P0.4/PWM0_CH4" x="33.02" y="-30.48" visible="pin" length="short" rot="R180"/>
 <pin name="P0.5/PWM0_CH5" x="33.02" y="-33.02" visible="pin" length="short" rot="R180"/>
@@ -319,7 +319,7 @@
 <connect gate="G$1" pin="P0.5/PWM0_CH5" pad="29"/>
 <connect gate="G$1" pin="P1.0/PWM1_CH0" pad="18"/>
 <connect gate="G$1" pin="P1.1/PWM1_CH1" pad="17"/>
-<connect gate="G$1" pin="P1.2/PWM_CH2" pad="16"/>
+<connect gate="G$1" pin="P1.2/PWM1_CH2" pad="16"/>
 <connect gate="G$1" pin="P1.3/PWM1_CH3" pad="15"/>
 <connect gate="G$1" pin="P1.4/PWM1_CH4" pad="14"/>
 <connect gate="G$1" pin="P1.5/PWM1_CH5" pad="13"/>

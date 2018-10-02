@@ -307,6 +307,22 @@
 </symbol>
 </symbols>
 <devicesets>
+<deviceset name="M0159S" prefix="U">
+<gates>
+<gate name="G$1" symbol="M0159S_IO" x="-7.62" y="-20.32"/>
+<gate name="G$2" symbol="M0159S_PWR_PROG" x="-50.8" y="43.18"/>
+</gates>
+<devices>
+<device name="" package="LQFP-64_7MMX7MMX1.6MM">
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:5688729/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </drawing>
