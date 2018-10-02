@@ -307,7 +307,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="M0159S" prefix="U">
+<deviceset name="M0159S">
 <gates>
 <gate name="G$1" symbol="M0159S_IO" x="-7.62" y="-20.32"/>
 <gate name="G$2" symbol="M0159S_PWR_PROG" x="-50.8" y="43.18"/>
